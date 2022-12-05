@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicButton</string>
+    <string name="label_next">Next</string>
+</resources>
